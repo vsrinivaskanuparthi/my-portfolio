@@ -1,0 +1,161 @@
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.height-60 {
+    margin-top: 60px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-photo/background-crumpled-paper-sheet_1194-7545.jpg?size=626&ext=jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-size: cover;
+    color: #444;
+}
+
+.img-circle {
+    border-radius: 15%;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 315%;
+}
+
+.bg-dark {
+    background: linear-gradient(to right, #333, #999);
+}
+
+.border-1px {
+    border: 1px solid #333;
+    margin-top: 10px;
+    border-top: none;
+}
+
+.text-para {
+    font-size: 1.25rem;
+    font-weight: 350;
+    margin: 1%;
+}
+
+hr {
+    margin: 1%;
+    border: 0;
+    border-top: 1px solid #555;
+}
+
+.p-1 {
+    padding: 1%
+}
+
+.checked {
+    color: orange;
+}
+
+.v-box{
+    margin-top: 5%;
+    padding: 10px;
+    border: 1px solid #333;
+}
+
+h5 {
+    background: linear-gradient(to right, #888, #333);
+    color: #fff;
+    padding: 2px 5px;
+}
+
+h4 {
+    background: linear-gradient(to right, #888, #333);
+    color: #fff;
+    padding: 2px 5px;
+}
+
+#gitHub {
+    color: black;
+}
+
+#linkedIn {
+    color: #0077b7;
+}
+
+#facebook {
+    color: #0077b7;
+}
+
+footer {
+    margin-top: 10px;
+    background: #666;
+    height: 35px;
+    width: 100%;
+    color: #eee;
+}
+
+.footer-fix {
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    padding-left: 3%;
+}
+
+.contact-form {
+    border: 1px solid #999;
+    padding: 3%;
+    background: #eee;
+}
+
+img {
+    width: 100%;
+}
+
+iframe {
+    width: 100%
+}
+
+.m-per-5 {
+    margin: 8%;
+}
+
+.news { 
+    background: #eee !important
+}
+
+.news-conatiner {
+    margin: 3% auto;
+    border: 1px solid #999;
+    padding: 2%;
+    min-height: 70vh;
+}
+
+.captilize-name {
+    text-transform: capitalize;
+}
+
+.m-l-none{
+    margin-right: 0px !important
+}
+
+.item-pad{
+    padding: 1%;
+    margin: 1%;
+    border: 1px solid #666;
+}
+
+.m-t-15 {
+    margin-top: 15px;
+}
+
+.m-t-8 {
+    margin-top: 10px;
+}
+
+.img-icon {
+    height: 33px;
+    width: 30px;
+}
